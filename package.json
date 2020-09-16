@@ -1,0 +1,10 @@
+{
+  "name": "lambdaUnzipFile",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Tianbao.xie",
+  "license": "MIT",
+  "dependencies": {
+    "s3-unzip-plus": "^0.1.8"
+  }
+}

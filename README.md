@@ -1,4 +1,4 @@
-*aws Lambda to unzip a file zip when zip file is upload to aws s3. *
+aws Lambda to unzip a file zip when zip file is upload to aws s3. 
 
 for example: 
 
